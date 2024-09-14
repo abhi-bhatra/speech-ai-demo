@@ -1,0 +1,13 @@
+1. Created Speech Services and imported endpoint and key
+2. Create OpenAI service and imported API key and region
+3. Gone to Open AI studio and created a deployment model in the GPT-3 engine
+
+Model details:
+Model name: gpt-35-turbo-instruct
+Model version: 0914
+Version update policy: Once a new default version is available.
+Deployment type: Standard
+Content Filter: Microsoft.DefaultV2
+Tokens per Minute Rate Limit (thousands): 120
+Rate limit (Tokens per minute): 120000
+Rate limit (Requests per minute): 720
